@@ -239,4 +239,4 @@ This repository serves as the official landing page for Easy Tables. The softwar
 **Get the most recent version of Easy Tables today!**
 
 ---
-**Last updated:** 2026-09-08 14:55:57 UTC
+**Last updated:** 2026-09-08 18:23:31 UTC
